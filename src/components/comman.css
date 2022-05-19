@@ -1,0 +1,23 @@
+.ul-nav {
+  display: flex;
+}
+
+.ul-li-nav {
+  margin: auto;
+  list-style: none;
+}
+
+.main-block {
+  
+  display: flex;
+  margin: auto;
+}
+.sub-block {
+  margin-top: 22px;
+  margin-left: 50px;
+}
+
+.sub-div{
+  height: 251px;
+  width: 250px;
+}
